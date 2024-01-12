@@ -12,7 +12,7 @@ body[theme="midnight"] {
 }
 body[theme="main"] {
     --text-color: red;
-    --background: #00000;
+    --background: #black;
     --navbar: #0e1213;
     --accent: #0284d4;
 }
