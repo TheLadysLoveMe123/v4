@@ -13,8 +13,8 @@ body[theme="midnight"] {
 body[theme="main"] {
     --text-color: red;
     --background: black;
-    --navbar: red;
-    --accent: #0284d4;
+    --navbar: black;
+    --accent: red;
 }
 body[theme="lgbtq"] {
     --text-color: black;
