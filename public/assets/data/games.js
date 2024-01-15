@@ -327,7 +327,7 @@ var games = [
   {
     id: 'geometrydash',
     title: 'Geometry Dash',
-    url: 'https://rawcdn.githack.com/3kh0/3kh0-Assets/21ac7257444af1713884b35045938d57e88a4993/geodash/index.html',
+    url: 'https://scratch.mit.edu/projects/105500895/embed',
     image: 'https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG'
   },
   {
