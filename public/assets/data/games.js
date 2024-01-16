@@ -13,7 +13,7 @@ var games = [
   {
     id: 'eggycar',
     title: 'Eggy Car',
-    url: 'https://raw.githack.com/3kh0/3kh0-Assets/main/eggycar/index.html',
+    url: 'https://phantomgames.dev/game/eggy-car/index.html',
     image: 'https://raw.githubusercontent.com/3kh0/3kh0-assets/main/eggycar/eggy-car.png'
   },
   {
