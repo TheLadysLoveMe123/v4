@@ -357,7 +357,7 @@ var games = [
   {
     id: 'chromedino',
     title: "Chrome Dino Game",
-    url: 'https://rawcdn.githack.com/3kh0/3kh0-Assets/e3144855e924629d8f7c41238660a823a5336705/chrome-dino/index.html',
+    url: 'https://phantomgames.dev/game/chrome-dino/index.html',
     image: 'https://qph.cf2.quoracdn.net/main-qimg-c803e5912e045867b4e2f033c1b57ff9-lq'
   },
   {
