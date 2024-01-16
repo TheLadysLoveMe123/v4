@@ -182,7 +182,7 @@ var games = [
   {
     id: 'retrobowl',
     title: 'Retro Bowl',
-    url: 'https://phantomgames.dev/game/retro-bowl/index.html',
+    url: 'https://docs.google.com/forms/d/1BTCJBWf66-SohgvoYpCxDqdMiAGUA1hNfFWu4KDr2wc/edit',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
   },
   {
@@ -398,7 +398,7 @@ var games = [
   {
     id: 'bitlife',
     title: 'Bitlife',
-    url: 'https://phantomgames.dev/game/bitlife/index.html',
+    url: 'https://docs.google.com/forms/d/1BTCJBWf66-SohgvoYpCxDqdMiAGUA1hNfFWu4KDr2wc/edit',
     image: 'https://d.newsweek.com/en/full/1317374/bitlife-ribbons-how-get-all-complete-list-android-ios-cheats-guide-tips-become.jpg?w=1600&h=1600&q=88&f=75befc746fb83a0c568c44ca07bc5e64'
   },
   {
