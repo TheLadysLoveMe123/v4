@@ -23,6 +23,12 @@ var games = [
     image: 'https://raw.githubusercontent.com/3kh0/3kh0-assets/main/eggycar/eggy-car.png'
   },
   {
+     id: 'jetpackjoyride',
+    title: 'Jetpack Joyride',
+    url: 'https://phantomgames.dev/game/jetpack-joyride/index.html',
+    image: 'https://raw.githubusercontent.com/3kh0/3kh0-assets/main/eggycar/eggy-car.png'
+  },
+  {
     id: 'bobtherobber2',
     title: 'Bob The Robber 2',
     url: 'https://phantomgames.dev/game/bob-the-robber-2/index.html',
