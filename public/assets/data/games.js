@@ -11,6 +11,12 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'
   },
   { 
+     id: 'littlealchemy2',
+    title: 'Little Alchemy 2',
+    url: 'https://littlealchemy2.com/',
+    image: 'https://www.clipartmax.com/png/middle/33-330283_little-alchemy-2-logo.png'
+  },
+  { 
     id: 'minecraft',
     title: 'Minecraft',
     url: 'https://phantomgames.dev/game/minecraft/index.html',
