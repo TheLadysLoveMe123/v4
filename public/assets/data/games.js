@@ -297,7 +297,7 @@ var games = [
   {
     id: 'slope',
     title: 'Slope',
-    url: 'https://www.ehabgames.com/games/1v1lol/index.html',
+    url: 'https://phantomgames.dev/game/slope/index.html',
     image: 'https://play-lh.googleusercontent.com/uJn2i9h7KxYQarC_c3K4qH6o7gLtflFnhD_dN14MNkzHJ1NeNFzCL69jpB5mT0vCoQs'
   },
   {
