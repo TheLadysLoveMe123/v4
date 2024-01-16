@@ -228,12 +228,6 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/yXqBI1Vb1b-xjwmXLE2T7FQbgHIxfvjze1b6jO2aLHfy8Y8ta7NFSEVqZoPHtM2Ajyrl'
   },
   {
-    id: 'basketrandom',
-    title: 'Basket Random',
-    url: 'https://phantomgames.dev/game/boxingrandom/index.html',
-    image: 'https://phantomgames.dev/assets/boxingrandom.avif'
-  },
-  {
     id: 'run3',
     title: 'Run 3',
     url: 'https://docs.google.com/forms/d/1BTCJBWf66-SohgvoYpCxDqdMiAGUA1hNfFWu4KDr2wc/edit',
