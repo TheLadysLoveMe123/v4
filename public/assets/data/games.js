@@ -379,12 +379,6 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/EjJV6kCXgX9EIhKEtpYhQF8-BUb5En8sDKpOPiWSQJUxv9_RAfl4tMxyIMkQYgeqC6I=w240-h480-rw'
   },
   {
-    id: 'amongus',
-    title: 'Among Us',
-    url: 'https://phantomgames.dev/game/among-us/index.html',
-    image: 'https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec'
-  },
-  {
     id: 'rocketleague',
     title: 'Rocket League',
     url: 'https://rawcdn.githack.com/3kh0/3kh0-Assets/d1a97cbddcf69b15adf2ab4a491df717ecf22938/Rocket-League/index.html',
