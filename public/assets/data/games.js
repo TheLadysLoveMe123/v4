@@ -14,7 +14,7 @@ var games = [
      id: 'littlealchemy2',
     title: 'Little Alchemy 2',
     url: 'https://littlealchemy2.com/',
-    image: 'https://www.clipartmax.com/png/middle/33-330283_little-alchemy-2-logo.png'
+    image: 'https://th.bing.com/th/id/R.a61031eedad82b80338af7324348e210?rik=jqKWPBXGcaw6rA&riu=http%3a%2f%2fwww.pearlinux.fr%2fwp-content%2fuploads%2f2018%2f01%2flogo-little-alchemy-2.png&ehk=MAn4bTi%2b%2bxGL%2bvb1UytfPRQ5SEOi42zWeZZRCso0VtQ%3d&risl=&pid=ImgRaw&r=0'
   },
   { 
     id: 'minecraft',
