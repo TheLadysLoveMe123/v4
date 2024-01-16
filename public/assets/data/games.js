@@ -17,12 +17,6 @@ var games = [
     image: 'https://logodix.com/logo/1014608.png'
   },
   {
-    id: 'littlealchemy2',
-    title: 'Little Alchemy 2',
-    url: 'https://artclass.site/service/hvtrs8%2F-lktvlgancjeoy0.aoo%2F',
-    image: 'https://th.bing.com/th?id=ODLS.af3c6102-2fc6-430d-ac6a-18ba6d7a9828&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2'
-  },
-  {
     id: 'eggycar',
     title: 'Eggy Car',
     url: 'https://phantomgames.dev/game/eggy-car/index.html',
