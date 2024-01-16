@@ -218,7 +218,7 @@ var games = [
   {
     id: 'littlealchemy',
     title: 'Little Alchemy',
-    url: 'https://artclass.site/service/hvtrs8%2F-lktvlgancjeoy%2Ccmm',
+    url: 'https://littlealchemy.com',
     image: 'https://play-lh.googleusercontent.com/-NQ2QLAOaafy7iHAJcrdEFk-tyVicnbwy6iLehml8K0Higi60sSVn0829bcyi1lOUw'
   },
   {
