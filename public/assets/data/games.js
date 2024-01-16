@@ -10,11 +10,29 @@ var games = [
     url: 'https://phantomgames.dev/game/tunnel-rush/index.html',
     image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'
   },
+  { 
+    id: 'minecraft',
+    title: 'Minecraft',
+    url: 'https://phantomgames.dev/game/minecraft/index.html',
+    image: 'https://logodix.com/logo/1014608.png'
+  },
   {
     id: 'eggycar',
     title: 'Eggy Car',
     url: 'https://phantomgames.dev/game/eggy-car/index.html',
     image: 'https://raw.githubusercontent.com/3kh0/3kh0-assets/main/eggycar/eggy-car.png'
+  },
+  {
+    id: 'bobtherobber2',
+    title: 'Bob The Robber 2',
+    url: 'https://phantomgames.dev/game/bob-the-robber-2/index.html',
+    image: 'https://phantomgames.dev/assets/bobtherobber2.jpeg'
+  },
+  {
+     id: 'monkeymart',
+    title: 'Monkey Mart',
+    url: 'https://phantomgames.dev/game/monkey-mart/index.html',
+    image: 'https://th.bing.com/th/id/OIP.R6QV49uV3NDGj2yeVJwXGAAAAA?rs=1&pid=ImgDetMain'
   },
   {
     id: 'rocketleague',
@@ -243,12 +261,6 @@ var games = [
     title: 'snowball.io',
     url: 'https://docs.google.com/forms/d/1BTCJBWf66-SohgvoYpCxDqdMiAGUA1hNfFWu4KDr2wc/edit',
     image: 'https://play-lh.googleusercontent.com/X8FEOENa_t5mlRllBh2RRLc6sMnPIq56Wxa2ndValDOmwzIRhAv7MG6fT97TLQ2DK48'
-  },
-  {
-    id: 'minecraft',
-    title: 'Minecraft Classic',
-    url: 'https://docs.google.com/forms/d/1BTCJBWf66-SohgvoYpCxDqdMiAGUA1hNfFWu4KDr2wc/edit',
-    image: 'https://cdn.iconscout.com/icon/free/png-256/minecraft-2752120-2284937.png'
   },
   {
     id: 'smashkarts',
