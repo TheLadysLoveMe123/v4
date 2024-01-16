@@ -309,7 +309,7 @@ var games = [
   {
     id: '1v1lol',
     title: "1v1.lol",
-    url: 'https://sussybaka.mascarenhas.inf.br/service/uv/hvtrs8%2F-1t1%2Csahmon',
+    url: 'https://7802e8690fa00c48ce467d30123a7e70.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html',
     image: 'https://play-lh.googleusercontent.com/-dE43Bqni_bUnq0L-piPxiJG4YiCotk5khMdrQaQBJrXJ3vSgjNeIaKyA34rBvKQSyOy'
   },
   {
