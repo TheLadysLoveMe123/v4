@@ -228,7 +228,7 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/yXqBI1Vb1b-xjwmXLE2T7FQbgHIxfvjze1b6jO2aLHfy8Y8ta7NFSEVqZoPHtM2Ajyrl'
   },
   {
-     id: 'basketrandom',
+    id: 'basketrandom',
     title: 'Basket Random',
     url: 'https://phantomgames.dev/game/boxingrandom/index.html',
     image: 'https://phantomgames.dev/assets/boxingrandom.avif'
