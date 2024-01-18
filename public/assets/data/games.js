@@ -212,7 +212,7 @@ var games = [
   {
     id: 'retrobowl',
     title: 'Retro Bowl',
-    url: 'https://docs.google.com/forms/d/1BTCJBWf66-SohgvoYpCxDqdMiAGUA1hNfFWu4KDr2wc/edit',
+    url: 'https://phantomgames.dev/game/retro-bowl/index.html',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
   },
   {
