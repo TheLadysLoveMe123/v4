@@ -1,8 +1,7 @@
 var games = [
   {
-    id: 'customgame',
-    title: 'Add custom game',
-    image: 'assets/images/add.png'
+    id: 'GoogleApp',
+    title: 'If Nothing Works Use Google In Apps',
   },
   {
     id: 'idlebreakout',
