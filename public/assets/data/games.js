@@ -1,8 +1,8 @@
 var games = [
   {
-    id: 'Fix',
-    title: 'Fix',
-    image: 'If does not work use google in the apps'
+    id: 'customgame',
+    title: 'Add custom game',
+    image: 'assets/images/add.png'
   },
   {
     id: 'idlebreakout',
