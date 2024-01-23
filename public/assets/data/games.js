@@ -2,6 +2,7 @@ var games = [
   {
     id: 'GoogleApp',
     title: 'If Nothing Works Use Google In Apps',
+    image: 'https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/87b22ec48fa656db53e1f62e3145227f'
   },
   {
     id: 'idlebreakout',
