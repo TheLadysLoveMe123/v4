@@ -61,10 +61,10 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/MKW0yzbpA-faDMztP2xkirlXsHwL7QutC_9VyQlbr4VTbPOyCZInL7zYG9EA4XpX4mtM'
   },
   {
-    id: 'fleeingthecomplex',
-    title: 'Henry Stickmin: Fleeing the Complex',
-    url: 'https://art-class.github.io/assets/fleeingthecompound/index.html',
-    image: 'https://play-lh.googleusercontent.com/RDk8BpHUESL9J4H-s-07ZC1sNJol8-aZEzz3OEA99PxTYnsZd8038Y-0wRMpCQKDssU'
+    id: 'chromedino',
+    title: 'ChromeDino',
+    url: 'https://chromedino.com/',
+    image: 'https://th.bing.com/th/id/OIP.Cyx-tvXuVrSjk-U33dQdWgHaHa?w=178&h=180&c=7&r=0&o=5&pid=1.7'
   },
   {
     id: 'soundboard',
