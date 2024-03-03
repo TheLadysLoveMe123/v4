@@ -104,6 +104,12 @@ var games = [
     image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/5cf218d2-f550-420c-8e55-7029efc5b4db.jpg'
   },
   {
+    id: 'minecraft',
+    title: 'Minecraft Classic',
+    url: 'https://rawcdn.githack.com/3kh0/3kh0-Assets/21ac7257444af1713884b35045938d57e88a4993/minecraft-classic/index.html',
+    image: 'https://cdn.iconscout.com/icon/free/png-256/minecraft-2752120-2284937.png'
+  },
+  {
     id: 'swerve',
     title: 'Swerve',
     url: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/iJa0TBSq/__start__.js',
