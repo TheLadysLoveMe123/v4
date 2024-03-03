@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <link rel="shortcut icon" href="https://crazystudy.info/wp-content/uploads/2023/02/workout_tile_2__fduarvg890qe_large_2x.png" type="image/png" />
     <title>YoboiJake</title>
 
@@ -9,53 +9,78 @@
     <script src="/uv/uv.bundle.js" charset="UTF-8"></script>
     <script src="/uv/uv.config.js"></script>
     <script src="./js/preload.js"></script>
-  </head>
+    
+    <style>
+        /* Add fullscreen styles here */
+        #gamecontainer.fullscreen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+        }
+    </style>
+</head>
 
-  <body theme="main">
-    <nav>
-      <div class="logo">
+<body theme="main">
+<nav>
+    <div class="logo">
         <img src="https://crazystudy.info/wp-content/uploads/2023/02/workout_tile_2__fduarvg890qe_large_2x.png" alt="Logo" draggable="false" />
         <h1>YoboiJake</h1>
-      </div>
+    </div>
 
-      <p id="time"></p>
+    <p id="time"></p>
 
-      <div class="navitems">
+    <div class="navitems">
         <div class="navitem"><a href="/">Home</a></div>
         <div class="navitem"><a href="/gs.html">Games</a></div>
         <div class="navitem"><a href="/apps.html">Apps</a></div>
         <div class="navitem"><a href="/ChatGpt.html">ChatGpt</a></div>
-      </div>
-    </nav>
+    </div>
+</nav>
 
-    <div class="gamecontainer" id="gamecontainer">
-      <iframe allowfullscreen frameborder="0" id="frame"></iframe>
-      <div id="gameInfo">
+<div class="gamecontainer" id="gamecontainer">
+    <iframe allowfullscreen frameborder="0" id="frame"></iframe>
+    <div id="gameInfo">
         <div class="gameHeader">
-          <img id="gameImage" alt="icon" />
-          <h3 id="gameTitle"></h3>
+            <img id="gameImage" alt="icon" />
+            <h3 id="gameTitle"></h3>
         </div>
         <p id="gameDescription"></p>
 
         <div id="menubtns">
-          <a href="./gs.html">
-            <button onclick="window.location.href = '/'">
-              <i class="fas fa-arrow-left"></i>
+            <a href="./gs.html">
+                <button onclick="window.location.href = '/'">
+                    <i class="fas fa-arrow-left"></i>
+                </button>
+            </a>
+            <button onclick="toggleFullScreen()">
+                <i class="fas fa-expand"></i>
             </button>
-          </a>
-          <button onclick="document.getElementById('gamecontainer').requestFullscreen()">
-            <i class="fas fa-expand"></i>
-          </button>
-          <button onclick="favorite()">
-            <i class="favorited far fa-star"></i>
-          </button>
+            <button onclick="favorite()">
+                <i class="favorited far fa-star"></i>
+            </button>
         </div>
-      </div>
     </div>
-  </body>
+</div>
 
-  <script src="./js/index.js"></script>
-  <script src="./assets/data/games.js"></script>
-  <script src="./assets/data/apps.js"></script>
-  <script src="./js/load.js"></script>
+<script src="./js/index.js"></script>
+<script src="./assets/data/games.js"></script>
+<script src="./assets/data/apps.js"></script>
+<script src="./js/load.js"></script>
+
+<script>
+    function toggleFullScreen() {
+        var elem = document.getElementById("gamecontainer");
+        if (!document.fullscreenElement) {
+            elem.requestFullscreen().catch(err => {
+                console.log(`Error attempting to enable full-screen mode: ${err.message} (${err.name})`);
+            });
+        } else {
+            document.exitFullscreen();
+        }
+    }
+</script>
+</body>
 </html>
