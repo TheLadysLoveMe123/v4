@@ -81,7 +81,7 @@ var games = [
   {
     id: '1v1lol',
     title: "1v1.lol",
-    url: 'https://1v1lolonline.github.io/1v1-lol-2/',
+    url: 'https://static.vecteezy.com/system/resources/previews/022/655/958/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg',
     image: 'https://play-lh.googleusercontent.com/-dE43Bqni_bUnq0L-piPxiJG4YiCotk5khMdrQaQBJrXJ3vSgjNeIaKyA34rBvKQSyOy'
   },
   {
