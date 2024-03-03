@@ -61,7 +61,7 @@ wvar games = [
   },
   {
     id: 'soundboard',
-    title: 'Soundboard',
+    title: 'Sound board',
     url: 'https://www.myinstants.com/categories/sound%20effects/',
     image: 'https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_SoundboardButtonsWithInstantSounds_image1600w.jpg'
   },
