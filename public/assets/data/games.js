@@ -193,7 +193,7 @@ var games = [
     title: '8 Ball Pool',
     url: 'https://8ball-pool.io',
     image: 'https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag'
- },
+  },
   {
     id: 'bloxors',
     title: 'Bloxors',
