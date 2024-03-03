@@ -1,4 +1,4 @@
-wvar games = [
+var games = [
   {
     id: 'customgame',
     title: 'Add custom game',
@@ -29,11 +29,17 @@ wvar games = [
     image: 'https://raw.githubusercontent.com/3kh0/3kh0-assets/main/eggycar/eggy-car.png'
   },
   {
-     id: 'jetpackjoyride',
+    id: 'soundboard',
+    title: 'Soundboard',
+    url: 'https://www.myinstants.com/categories/sound%20effects/',
+    image: 'https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_SoundboardButtonsWithInstantSounds_image1600w.jpg'
+    },
+  {  
+    id: 'jetpackjoyride',
     title: 'Jetpack Joyride',
     url: 'https://phantomgames.dev/game/jetpack-joyride/index.html',
     image: 'https://raw.githubusercontent.com/3kh0/3kh0-assets/main/eggycar/eggy-car.png'
-  },
+   },
   {
     id: 'bobtherobber2',
     title: 'Bob The Robber 2',
