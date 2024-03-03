@@ -43,12 +43,6 @@ var games = [
     image: 'https://img.itch.zone/aW1nLzE1NzI2NjIucG5n/original/Equhiy.png'
   },
   {
-    id: 'slowroads',
-    title: 'Slow Roads',
-    url: 'https://slowroads.io/',
-    image: 'https://slowroads.io/static/media/splash-logo-placeholder-7b.2d60164d.png'
-  },
-  {
     id: 'littlealchemy',
     title: 'Little Alchemy',
     url: 'https://littlealchemy.com',
