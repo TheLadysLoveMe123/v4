@@ -43,11 +43,10 @@ var games = [
     image: 'https://img.itch.zone/aW1nLzE1NzI2NjIucG5n/original/Equhiy.png'
   },
   {
-    id: 'thefinalearth',
-    title: 'The Final Earth',
-    description: 'Earth has been destroyed. It\'s a good thing you teleported to a new planet, also known as The Final Earth. Gather resources and build a colony',
-    url: 'https://rawcdn.githack.com/3kh0/3kh0-Assets/e3144855e924629d8f7c41238660a823a5336705/the-final-earth/index.html',
-    image: 'https://img.itch.zone/aW1nLzIyMTU1NDAucG5n/original/6vGlZe.png'
+    id: 'roams.io',
+    title: 'Roams.io',
+    url: 'https://roams.io/',
+    image: 'https://ncdn.gameads.io/pics/c184.gif'
   },
   {
     id: 'littlealchemy',
