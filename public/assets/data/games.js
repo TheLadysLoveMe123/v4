@@ -74,10 +74,10 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/RDk8BpHUESL9J4H-s-07ZC1sNJol8-aZEzz3OEA99PxTYnsZd8038Y-0wRMpCQKDssU'
   },
   {
-    id: 'infiltratingtheairship',
-    title: 'Henry Stickmin: Infiltrating the Airship',
-    url: 'https://art-class.github.io/assets/infiltratingtheairship/index.html',
-    image: 'https://play-lh.googleusercontent.com/bRVIDUSlmkDM9ZA9xLczm-PuUa0dYPupAG2ZVNXJvCITc3ZkO7PS-t0qKX1T--7f5-k=w240-h480-rw'
+    id: 'soundboard',
+    title: 'SoundBoard',
+    url: 'https://www.myinstants.com/categories/sound%20effects/',
+    image: 'https://th.bing.com/th?id=ODLS.a14279a1-2396-4c5e-a1d2-a7062e7ae498&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2'
   },
   {
     id: 'breakingthebank',
