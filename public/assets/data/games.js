@@ -1,4 +1,4 @@
-var games = [
+avar games = [
   {
     id: 'customgame',
     title: 'Add custom game',
@@ -43,11 +43,17 @@ var games = [
     image: 'https://img.itch.zone/aW1nLzE1NzI2NjIucG5n/original/Equhiy.png'
   },
   {
+    id: 'roams.io',
+    title: 'Roams.io',
+    url: 'https://roams.io/',
+    image: 'https://ncdn.gameads.io/pics/c184.gif'
+  },
+  { 
     id: 'littlealchemy',
     title: 'Little Alchemy',
     url: 'https://littlealchemy.com',
     image: 'https://play-lh.googleusercontent.com/-NQ2QLAOaafy7iHAJcrdEFk-tyVicnbwy6iLehml8K0Higi60sSVn0829bcyi1lOUw'
-   },
+  },
   {
     id: 'littlealchemy2',
     title: 'Little Alchemy 2',
