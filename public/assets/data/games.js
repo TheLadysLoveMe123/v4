@@ -81,7 +81,7 @@ var games = [
   {
     id: '1v1lol',
     title: "1v1.lol",
-    url: 'https://static.vecteezy.com/system/resources/previews/022/655/958/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg',
+    url: 'https://th.bing.com/th/id/R.4e19157d08726c445b8b9d64880fa0fb?rik=h1iRMdeZLyd1VQ&riu=http%3a%2f%2fwww.animatedimages.org%2fdata%2fmedia%2f1664%2fanimated-work-in-progress-image-0020.gif&ehk=38P0eLxd%2flN069jajR5uG8%2fkNY%2f%2fWGAY0y3RWW4fZH8%3d&risl=&pid=ImgRaw&r=0',
     image: 'https://play-lh.googleusercontent.com/-dE43Bqni_bUnq0L-piPxiJG4YiCotk5khMdrQaQBJrXJ3vSgjNeIaKyA34rBvKQSyOy'
   },
   {
