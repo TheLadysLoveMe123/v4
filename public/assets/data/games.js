@@ -81,7 +81,7 @@ var games = [
   {
     id: '1v1lol',
     title: "1v1.lol",
-    url: 'https://digitalserpant.github.io/lol/index.htm',
+    url: 'https://1v1lolonline.github.io/1v1-lol-2/',
     image: 'https://play-lh.googleusercontent.com/-dE43Bqni_bUnq0L-piPxiJG4YiCotk5khMdrQaQBJrXJ3vSgjNeIaKyA34rBvKQSyOy'
   },
   {
