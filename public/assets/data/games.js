@@ -81,7 +81,7 @@ var games = [
   {
     id: '1v1lol',
     title: "1v1.lol",
-    url: 'https://docs.google.com/document/d/1a8KLo8BN8-xF18yXnMyPnB0Er0d6nrt_WJ65Dj_hQfk/edit?usp=sharing',
+    url: '',
     image: 'https://play-lh.googleusercontent.com/-dE43Bqni_bUnq0L-piPxiJG4YiCotk5khMdrQaQBJrXJ3vSgjNeIaKyA34rBvKQSyOy'
   },
   {
