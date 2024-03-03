@@ -60,12 +60,6 @@ wvar games = [
     image: 'https://cdn.discordapp.com/icons/339131488111034389/73f15cd93d96504af9877a53816d110c.png'
   },
   {
-    id: 'soundboard',
-    title: 'Sound board',
-    url: 'https://www.myinstants.com/categories/sound%20effects/',
-    image: 'https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_SoundboardButtonsWithInstantSounds_image1600w.jpg'
-  },
-  {
     id: 'thereisnogame',
     title: 'There Is No Game',
     url: 'https://phantomgames.dev/game/tunnel-rush/index.html',
