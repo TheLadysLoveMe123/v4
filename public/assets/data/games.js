@@ -1,4 +1,4 @@
-wvar games = [
+var games = [
   {
     id: 'customgame',
     title: 'Add custom game',
