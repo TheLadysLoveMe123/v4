@@ -13,13 +13,13 @@ var games = [
   },
   {
     id: 'slitherio',
-    title: 'Slither.io',
+    title: 'Slitherio',
     url: 'https://slitherioonline.github.io/file/',
     image: 'https://th.bing.com/th?id=OSK.938c48fc3a3f1693f013cf8651cd787c&w=148&h=148&c=7&o=6&pid=SANGAM'
   },
   {
     id: 'zombsroyaleio',
-    title: 'Zombsroyale.io',
+    title: 'Zombsroyaleio',
     url: 'https://zombsroyale.io/',
     image: 'https://th.bing.com/th?id=ODLS.7fa9ae45-fd72-4967-8243-87f42ba575a1&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2'
   },
