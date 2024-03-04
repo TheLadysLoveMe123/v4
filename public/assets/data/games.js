@@ -12,6 +12,18 @@ var games = [
     image: 'https://cdn.discordapp.com/icons/339131488111034389/73f15cd93d96504af9877a53816d110c.png'
   },
   {
+    id: 'slitherio',
+    title: 'Slither.io',
+    url: 'https://slitherioonline.github.io/file/',
+    image: 'https://th.bing.com/th?id=OSK.938c48fc3a3f1693f013cf8651cd787c&w=148&h=148&c=7&o=6&pid=SANGAM'
+  },
+  {
+    id: 'zombsroyaleio',
+    title: 'Zombsroyale.io',
+    url: 'https://zombsroyale.io/',
+    image: 'https://th.bing.com/th?id=ODLS.7fa9ae45-fd72-4967-8243-87f42ba575a1&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2'
+  },
+  {
     id: '2048',
     title: '2048',
     url: 'https://www.2048.org/',
@@ -106,7 +118,7 @@ var games = [
   {
     id: 'minecraft',
     title: 'Minecraft',
-    url: 'https://minecraftunblocked.github.io/',
+    url: 'https://minecraftunblocked.github.io/go/minecraft-1.8.8/',
     image: 'https://cdn.iconscout.com/icon/free/png-256/minecraft-2752120-2284937.png'
   },
   {
